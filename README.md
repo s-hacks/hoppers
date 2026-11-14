@@ -190,14 +190,10 @@ Every time the bot caves, add a rule or example to the prompt and test again.
 
 This started as a hackathon project, but ideas are welcome. Open an issue or a pull request. Please don't commit secrets.
 
-## 👩‍💻 Team
+## 👩‍💻 Team Hot&Hot
 
-- [Your Name]: [role]
-- Kennedy [Last Name]: [role]
-
-## 📄 License
-
-[MIT](LICENSE) (or choose your own, and add a `LICENSE` file)
+- Chad Bynum: Developer
+- Kennedy Corman: Developer
 
 ---
 
