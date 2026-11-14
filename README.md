@@ -4,7 +4,7 @@
 
 Hoppers gives every class its own tutor ("Math Hopper," "History Hopper," "AP Chemistry Hopper"). Students chat with their Hopper, upload class materials, and get hints, questions, and worked examples of *similar* problems. The tutor never states the final answer to the student's actual problem.
 
-Built for [HACKATHON NAME] by [Your Name] and Kennedy [Last Name].
+Built for ShiptHacks by Chad Bynum and Kennedy Corman(Team Hot&Hot).
 
 ---
 
